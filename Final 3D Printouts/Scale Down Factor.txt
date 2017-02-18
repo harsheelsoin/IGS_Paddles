@@ -1,0 +1,2 @@
+scale down factor in solidworks:
+scale down factor in makerware:80%
